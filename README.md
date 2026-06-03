@@ -1,4 +1,4 @@
-# Havaliman-ag-topolojisi
+# Havalimani-ag-topolojisi
 Cisco Packet Tracer üzerinden havalimanı ağ simulasyonu tasarlanması.
  Bu proje, modern bir havalimanının karmaşık gereksinimlerini karşılamak üzere tasarlanmış kapsamlı bir ağ altyapısı sunmaktadır. BLM2006 – Bilgisayar Ağlarına Giriş dersi final projesi kapsamında Cisco Packet Tracer 8.x kullanılarak geliştirilmiştir.
 
